@@ -1,4 +1,4 @@
 <?php 
-$connect = mysqli_connect('localhost','root','','hms',3309);
+$connect = mysqli_connect('localhost','username','password','database',port);
 #echo $connect;
 ?>
